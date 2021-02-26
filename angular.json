@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "excelDemo"
+    }
+  },
+  "defaultProject": "excelDemo",
+  "cli": {
+    "analytics": false
+  }
 }
